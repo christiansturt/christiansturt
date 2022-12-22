@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christiansturt
 - 👀 I’m interested in storing my personal projects somewhere on the cloud
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning sarcasm
 - 💞️ I an not looking to collaborate.
 - 📫 How to reach me ... send me a carrier pigion. 
 
